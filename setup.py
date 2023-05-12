@@ -25,9 +25,9 @@ setup(
     version='2.6.0',
     description='Python library for Uploadcare.com',
     long_description=(long_description),
-    author='Uploadcare LLC',
+    author='yogesh',
     author_email='hello@uploadcare.com',
-    url='https://github.com/uploadcare/pyuploadcare',
+    url='https://github.com/yogeshdmca/pyuploadcare.git',
     packages=['pyuploadcare', 'pyuploadcare.dj', 'pyuploadcare.ucare_cli'],
     package_data={
         'pyuploadcare.dj': [
